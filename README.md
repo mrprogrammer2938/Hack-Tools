@@ -1,4 +1,14 @@
-# This code write by (ms.nope)
-# hackingmenu
+# hacking menu
+This code write by Ms.nope
 
-usage : bash install.sh , python3 hackingmenu.py
+**installing**
+```
+git cone https://github.com/msprogrammer2938/hacktools
+
+cd hacktools
+
+bash install.sh
+
+python3 hackingmenu.py
+
+```
