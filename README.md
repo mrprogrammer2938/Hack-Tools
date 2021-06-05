@@ -1,5 +1,5 @@
 # hacking menu
-This code write by Ms.nope
+This code write by [Ms.nope](https://github.com/msprogrammer2938)
 
 **installing**
 ```
@@ -12,3 +12,13 @@ bash install.sh
 python3 hackingmenu.py
 
 ```
+
+#### Update
+```
+cd Update
+
+./update
+```
+
+### [Ms.nope](https://github.com/msprogrammer2938) Account...
+[Instagram](https://instagram.com/programmer2938)
