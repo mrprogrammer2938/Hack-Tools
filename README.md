@@ -1,7 +1,7 @@
 # hacking menu
 This code write by [Ms.nope](https://github.com/msprogrammer2938)
 
-**installing**
+**Installing**
 ```
 git cone https://github.com/msprogrammer2938/hacktools
 
@@ -9,7 +9,7 @@ cd hacktools
 
 bash install.sh
 
-python3 hackingmenu.py
+./hackingmenu.py
 
 ```
 
