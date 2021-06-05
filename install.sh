@@ -1,5 +1,6 @@
 #!/usr/bin/bash
 # This code write by (ms.nope)
+clear
 echo "Installing..."
 sleep 2
 sudo apt-get update
