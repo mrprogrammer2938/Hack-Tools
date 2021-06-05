@@ -3,6 +3,7 @@
 # version 1.0.0
 import os
 import time
+import sys
 class color:
     green = '\033[92m'
     red = '\033[91m'
