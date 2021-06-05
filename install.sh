@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-# This code write by (ms.nope)
+# This code write by (Ms.nope)
 clear
 echo "Installing..."
 sleep 2
