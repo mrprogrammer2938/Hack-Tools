@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+# This code write by Ms.nope
+clear
+echo "Updating..."
+sleep 2
+cd .. && cd .. && sudo rm -r hacktools && git clone https://github.com/msprogrammer2938/hacktools
+echo ""
+echo "Finish Updaing!"
+echo ""
+exit 1
