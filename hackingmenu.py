@@ -1,5 +1,5 @@
 # hackingmenu
-# This code write by (ms.nope)
+# This code write by (Mr.nope)
 # version 1.0.0
 import os
 import time
